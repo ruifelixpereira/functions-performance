@@ -1,2 +1,2 @@
 # functions-performance
-Azure Fucntions performance tests
+Azure Functions performance tests
